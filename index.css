@@ -91,7 +91,7 @@ h1, h2{
 #title{
   position: relative;
   left: 0.55in;
-  margin-bottom: 0.3in;
+  margin-bottom: 0.2in;
   line-height: 1.2;
 }
 
@@ -342,18 +342,18 @@ h1, h2{
 }
 
 .side-block{
-  margin-top: 0.5in; 
+  margin-top: 0.2in; 
 }
 
-#profil ul, #portofolio ul, #contact ul{
+#profil ul, #biodata ul, #portofolio ul, #contact ul{
   margin-top: 0.05in;
   padding-left: 0;
-  font-family: "Source Code Pro";
+  font-family: "Open Sans", sans-serif; 
   font-weight: 400;
   line-height: 1.75;
 }
 
-#profil li > i, #portofolio li > i, #contact li > i{
+#profil li > i, #biodata li > i, #portofolio li > i, #contact li > i{
   width: 9pt; /* for text alignment */
   text-align: right;
 }

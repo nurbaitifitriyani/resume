@@ -181,7 +181,7 @@ li {
   float: left;
   width: var(--main-width);
   padding: .25in .25in 0 .25in;
-  font-size: 7pt;
+  font-size: 9pt;
   color: #2e3440;
   background: #eceff4
 }
@@ -214,9 +214,9 @@ h1, h2 {
 #title h1 strong {
   font-weight: 600
 }
-.subtitle {
+/*.subtitle {
   font-size: 8pt
-}
+}*/
 .main-block {
   margin-top: .05in
 }
